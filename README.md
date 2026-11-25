@@ -1,32 +1,19 @@
-## Hi, I'm Sarah Odinakachukwu Oko👋
-I'm a Data Analyst with experience using Power BI, SQL, Excel, and Python to analyze data, build dashboards, and deliver actionable business insights.
+# Hi, I'm Sarah Oko 👋
 
-I focus on transforming raw datasets into clear narratives that support data-driven decision-making.
+**Business & Data Analyst | Agricultural Economist** in Abuja, Nigeria
 
-### 🔧 Tools & Skills
-- Power BI (DAX, Data Modeling, KPI Dashboards)
-- SQL (PostgreSQL, MySQL)
-- Excel (Pivot Tables, Power Query, Advanced Formulas)
-- Python (Pandas, Matplotlib, Data Cleaning)
+I turn agricultural and business data into clear dashboards and practical recommendations.
 
-### 📊 Featured Projects
-- Sales Performance & YoY Growth Dashboard (Power BI)
-- Fleet Management & Operational Efficiency Analysis
-- Agricultural Economics Data Analysis
+## 📊 Featured projects
 
-### 📫 Connect With Me
-- LinkedIn: https://www.linkedin.com/in/sarah-oko-662305262?utm_source=share_via&utm_content=profile&utm_medium=member_android
-<!--
-**Saraiemmanuelz/Saraiemmanuelz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+| Project | What it shows |
+|---|---|
+| [Nigeria Agricultural Production Dashboard](https://github.com/Saraiemmanuelz/nigeria-agricultural-production-dashboard) | 64 years of FAOSTAT data in Power BI, with 25 DAX measures and a number-checking script |
+| [Superstore Sales Analysis](https://github.com/Saraiemmanuelz/Superstore-Sales-PowerBI) | Power BI and Python analysis of how discounting affects profit |
+| [AgriPulse Nigeria](https://github.com/Saraiemmanuelz/AgriPulse-Nigeria) | Power BI dashboard on NBS 2023 crop production data |
 
-Here are some ideas to get you started:
+## 🛠️ Tools
+Power BI · DAX · Power Query · Python (pandas, Plotly) · SQL (MySQL) · Excel · GIS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Connect
+[LinkedIn](https://www.linkedin.com/in/sarah-oko-662305262)
